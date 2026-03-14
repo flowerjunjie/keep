@@ -1,0 +1,3 @@
+# Graylog Provider
+
+Graylog integration.

@@ -1,0 +1,3 @@
+# MaxCDN Provider
+
+MaxCDN integration.

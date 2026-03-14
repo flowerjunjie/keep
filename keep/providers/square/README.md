@@ -1,0 +1,3 @@
+# Square Provider
+
+Square integration.

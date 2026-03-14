@@ -1,0 +1,3 @@
+# Loggly Provider
+
+Loggly integration.

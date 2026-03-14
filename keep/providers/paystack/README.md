@@ -1,0 +1,3 @@
+# Paystack Provider
+
+Paystack integration.

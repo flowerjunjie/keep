@@ -1,0 +1,3 @@
+# GoogleStorage Provider
+
+GoogleStorage integration.
