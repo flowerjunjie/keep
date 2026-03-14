@@ -1,0 +1,3 @@
+# AmazonSES Provider
+
+AmazonSES integration.

@@ -1,0 +1,3 @@
+# Mailjet Provider
+
+Mailjet integration.

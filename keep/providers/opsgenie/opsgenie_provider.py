@@ -1,32 +1,13 @@
-"""
-Opsgenie Incident_Management Provider for Keep
-"""
-
+"""OpsGenie Provider"""
 import requests
-from typing import Optional, Dict, Any
+from typing import Dict, Any
 
-class OpsgenieProvider:
-    """
-    Opsgenie Provider - Incident_Management integration
-    """
-
+class OpsGenieProvider:
     def __init__(self, config: Dict[str, Any]):
         self.api_key = config.get("api_key")
-        self.api_url = config.get("api_url")
-        self.timeout = config.get("timeout", 30)
-
-        if not self.api_key:
-            raise ValueError(f"api_key is required for Opsgenie")
-
+        
     def send_alert(self, alert: Dict[str, Any]) -> Dict[str, Any]:
-        """Send alert to Opsgenie"""
-        # Implementation
-        return {"status": "sent", "id": "mock-id"}
-
+        return {"status": "sent"}
+    
     def test_connection(self) -> bool:
-        """Test connection"""
-        try:
-            # Simple health check
-            return True
-        except Exception:
-            return False
+        return True
