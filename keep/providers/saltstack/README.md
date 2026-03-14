@@ -1,0 +1,3 @@
+# SaltStack
+
+SaltStack provider.
