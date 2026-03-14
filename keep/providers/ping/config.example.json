@@ -1,0 +1,6 @@
+{
+  "api_url": "https://httpbin.org/status/200",
+  "timeout": 30,
+  "verify_ssl": true,
+  "max_retries": 3
+}
