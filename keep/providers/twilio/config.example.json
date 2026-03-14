@@ -1,0 +1,5 @@
+{
+  "api_key": "your-twilio-api-key",
+  "api_url": "https://api.twilio.com",
+  "timeout": 30
+}

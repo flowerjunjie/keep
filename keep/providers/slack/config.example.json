@@ -1,0 +1,5 @@
+{
+  "api_key": "your-slack-api-key",
+  "api_url": "https://api.slack.com",
+  "timeout": 30
+}

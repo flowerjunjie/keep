@@ -1,0 +1,5 @@
+{
+  "api_key": "your-mailgun-api-key",
+  "api_url": "https://api.mailgun.com",
+  "timeout": 30
+}
