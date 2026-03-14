@@ -1,0 +1,5 @@
+{
+  "api_key": "your-sendgrid-api-key",
+  "api_url": "https://api.sendgrid.com",
+  "timeout": 30
+}
