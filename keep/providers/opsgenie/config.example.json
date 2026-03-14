@@ -1,5 +1,1 @@
-{
-  "api_key": "your-opsgenie-api-key",
-  "api_url": "https://api.opsgenie.com",
-  "timeout": 30
-}
+{"api_key": "your-key"}

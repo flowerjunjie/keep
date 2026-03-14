@@ -1,0 +1,3 @@
+# Amplitude Provider
+
+Amplitude integration.
